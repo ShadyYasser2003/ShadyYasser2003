@@ -14,11 +14,13 @@
 
 # 🚀 About Me
 
-I'm a passionate **Cloud & DevOps Engineer** focused on building secure, scalable, production-ready cloud infrastructure.
+Cloud & DevOps Engineer passionate about architecting secure, scalable, and cloud-native solutions on AWS.
 
-I specialize in designing enterprise-grade cloud platforms using **AWS, Kubernetes, Docker, Terraform, GitHub Actions, Jenkins, ArgoCD, Helm, and DevSecOps best practices.**
+I specialize in designing enterprise-grade infrastructures using Kubernetes, Docker, Terraform, Helm, GitHub Actions, Jenkins, ArgoCD, and modern DevSecOps practices. My experience includes building production-ready Kubernetes platforms, implementing GitOps workflows, automating CI/CD pipelines, deploying serverless applications, and creating end-to-end observability solutions.
 
-I enjoy transforming traditional deployments into fully automated CI/CD and GitOps workflows while improving scalability, reliability, security, and cloud cost optimization.
+I enjoy solving complex infrastructure challenges, automating everything possible, optimizing cloud costs, and building highly available systems that are reliable, secure, and easy to operate.
+
+Currently focused on Cloud Architecture, Kubernetes, Platform Engineering, DevSecOps, GitOps, Infrastructure as Code, and AWS ecosystem technologies.
 
 ---
 
